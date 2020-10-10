@@ -1,0 +1,132 @@
+{
+    "items": [
+        {
+            "sys": {"id": "1"},
+            "fields": {
+                "title": "Legend 1 pro",
+                "price": 199.99,
+                "image": {"fields": {"file": {"url": "./images/product-1.jpg"}}} 
+            }
+        },
+        {
+            "sys": {"id": "2"},
+            "fields": {
+                "title": "Legend 2 pro",
+                "price": 151.99,
+                "image": {"fields": {"file": {"url": "./images/product-2.jpg"}}} 
+            }
+        },
+        {
+            "sys": {"id": "3"},
+            "fields": {
+                "title": "Legend 3 pro",
+                "price": 170.99,
+                "image": {"fields": {"file": {"url": "./images/product-3.jpg"}}} 
+            }
+        },
+        {
+            "sys": {"id": "4"},
+            "fields": {
+                "title": "Legend 4 pro",
+                "price": 190.99,
+                "image": {"fields": {"file": {"url": "./images/product-4.jpg"}}} 
+            }
+        },
+        {
+            "sys": {"id": "5"},
+            "fields": {
+                "title": "Legend 5 pro",
+                "price": 167.99,
+                "image": {"fields": {"file": {"url": "./images/product-5.jpg"}}} 
+            }
+        },
+        {
+            "sys": {"id": "6"},
+            "fields": {
+                "title": "Legend 6 pro",
+                "price": 125.99,
+                "image": {"fields": {"file": {"url": "./images/product-6.jpg"}}} 
+            }
+        },
+        {
+            "sys": {"id": "7"},
+            "fields": {
+                "title": "Legend 7 pro",
+                "price": 145.99,
+                "image": {"fields": {"file": {"url": "./images/product-7.jpg"}}} 
+            }
+        },
+        {
+            "sys": {"id": "8"},
+            "fields": {
+                "title": "Legend 8 pro",
+                "price": 123.99,
+                "image": {"fields": {"file": {"url": "./images/product-8.jpg"}}} 
+            }
+        },
+        {
+            "sys": {"id": "9"},
+            "fields": {
+                "title": "Legend 9 pro",
+                "price": 133.99,
+                "image": {"fields": {"file": {"url": "./images/product-9.jpg"}}} 
+            }
+        },
+        {
+            "sys": {"id": "10"},
+            "fields": {
+                "title": "Legend 10 pro",
+                "price": 130.99,
+                "image": {"fields": {"file": {"url": "./images/product-10.jpg"}}} 
+            }
+        },
+        {
+            "sys": {"id": "11"},
+            "fields": {
+                "title": "Legend 11 pro",
+                "price": 140.99,
+                "image": {"fields": {"file": {"url": "./images/product-11.jpg"}}} 
+            }
+        },
+        {
+            "sys": {"id": "12"},
+            "fields": {
+                "title": "Legend 12 pro",
+                "price": 150.99,
+                "image": {"fields": {"file": {"url": "./images/product-12.jpg"}}} 
+            }
+        },
+        {
+            "sys": {"id": "13"},
+            "fields": {
+                "title": "Legend 13 pro",
+                "price": 205.99,
+                "image": {"fields": {"file": {"url": "./images/product-13.jpg"}}} 
+            }
+        },
+        {
+            "sys": {"id": "14"},
+            "fields": {
+                "title": "Legend 14 pro",
+                "price": 180.99,
+                "image": {"fields": {"file": {"url": "./images/product-14.jpg"}}} 
+            }
+        },
+        {
+            "sys": {"id": "15"},
+            "fields": {
+                "title": "Legend 15 pro",
+                "price": 125.99,
+                "image": {"fields": {"file": {"url": "./images/product-15.jpg"}}} 
+            }
+        },
+        {
+            "sys": {"id": "16"},
+            "fields": {
+                "title": "Legend 16 pro",
+                "price": 178.99,
+                "image": {"fields": {"file": {"url": "./images/product-16.jpg"}}} 
+            }
+        }
+    ]
+}
